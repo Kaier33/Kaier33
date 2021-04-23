@@ -9,12 +9,12 @@
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning JavaScript、Dart、Java; 
+- 🌱 I’m currently learning JS、Dart、Java; 
 - 📫 How to reach me: [kaier_chou@163.com](kaier_chou@163.com);
 - 📝[blog](https://kaier33.github.io/) & 🍧[space](https://kaier33.github.io/soliloquy/)
 
 
-📈 My GitHub Stats
+<!-- 📈 My GitHub Stats -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kaier33&show_icons=true&theme=gotham" alt="Kaier33" />
 
