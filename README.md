@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me
 
-- 🌱 I’m currently learning JS、Dart、Java
+- 🌱 I’m currently learning JS、TS、Dart、Java
 - 📫 How to reach me: [kaier_chou@163.com](kaier_chou@163.com)
 - 📝[blog](https://kaier33.github.io/) & 🍧[space](https://kaier33.github.io/soliloquy/)
 
