@@ -4,6 +4,6 @@
 
 ### 👨‍💻 About me
 
-- 🌱 currently learning JS、TS、Dart、Java
+- 🌱 Novice programmer
 - 📫 How to reach me: [kaier_chou@163.com](kaier_chou@163.com)
 - 📝 [blog](https://kaier33.github.io/)
