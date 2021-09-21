@@ -1,9 +1,12 @@
-### Hi there 👋
-
+### Hi there, I'm Kaier. 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kaier33&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
-### 👨‍💻 About me
+### 🤡 About me
 
 - 🌱 Novice programmer
-- 📫 How to reach me: [kaier_chou@163.com](kaier_chou@163.com)
-- 📝 [blog](https://kaier33.github.io/)
+- 🔭 I’m currently focusing on Web
+- 💖 I like drinking 🥤, playing 🎮 and watching 📺 ACG
+- 🍭 Play with me: <code><img height="20" src="https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/logo_playstation.png" alt="Kaier_Chou"/> Kaier_Chou </code>&nbsp;<code><img height="20" src="https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/Nintendo.png" alt="4372-1316-5622" /> 4372-1316-5622</code>
+- 📝 [Amateur blog](https://kaier33.github.io/)
+
+
